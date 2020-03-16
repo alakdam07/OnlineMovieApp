@@ -1,4 +1,4 @@
-# Online Movie app.
+# Online Movie app :movie_camera:
 
 ## User can get information about Popular movies in all time, Top Rated Movies in all time, Upcoming movies, current movie Trend and top rated tv program in all time. User can search for his/her favourite movie.
 
